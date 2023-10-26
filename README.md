@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahagunes&label=Profile%20views&color=0e75b6&style=flat" alt="tahagunes" /> </p>
 
-- 🌱 I’m currently learning **Full stack environment**
+- 🌱 I’m currently learning **Full Stack environments**
 
 - 📫 How to reach me **otahagunes@gmail.com**
 
